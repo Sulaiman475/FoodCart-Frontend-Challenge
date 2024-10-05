@@ -1,6 +1,6 @@
 # Foodcart-frontend-challenge
 
-Live Preview [Create React App](https://frontend-foodcart.netlify.app/).
+Live Preview [DesertCart](https://frontend-foodcart.netlify.app/).
 
 # Getting Started with Create React App
 
